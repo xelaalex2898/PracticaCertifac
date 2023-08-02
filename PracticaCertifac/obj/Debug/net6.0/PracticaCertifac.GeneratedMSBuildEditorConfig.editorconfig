@@ -9,37 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaCertifac
 build_property.RootNamespace = PracticaCertifac
-build_property.ProjectDir = C:\Users\CerDev02\source\repos\PracticaCertifac\PracticaCertifac\
+build_property.ProjectDir = C:\Users\CerDev02\Documents\PracticaCertifac\PracticaCertifac\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\CerDev02\source\repos\PracticaCertifac\PracticaCertifac
+build_property.MSBuildProjectDirectory = C:\Users\CerDev02\Documents\PracticaCertifac\PracticaCertifac
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/Home/Index.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Addenda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkZW5kYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Addenda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkZW5kYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Addenda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkZW5kYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Addenda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkZW5kYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Addenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkZW5kYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/Home/Privacy.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/Shared/Error.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/_ViewImports.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/_ViewStart.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/CerDev02/source/repos/PracticaCertifac/PracticaCertifac/Views/Shared/_Layout.cshtml]
+[C:/Users/CerDev02/Documents/PracticaCertifac/PracticaCertifac/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dgfljz6vqq

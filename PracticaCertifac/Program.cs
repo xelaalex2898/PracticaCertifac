@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<PracticaCertifac.Models.Cer_AddendasContext>(
+    options =>
+    {
+        options.UseSqlServer(builder.Configuration.GetConnectionString("cer_addendas"));
+    });
 
 var app = builder.Build();
 

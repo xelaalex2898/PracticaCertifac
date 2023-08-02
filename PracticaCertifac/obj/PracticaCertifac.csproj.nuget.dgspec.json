@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CerDev02\\source\\repos\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj": {}
+    "C:\\Users\\CerDev02\\Documents\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CerDev02\\source\\repos\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj": {
+    "C:\\Users\\CerDev02\\Documents\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CerDev02\\source\\repos\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj",
+        "projectUniqueName": "C:\\Users\\CerDev02\\Documents\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj",
         "projectName": "PracticaCertifac",
-        "projectPath": "C:\\Users\\CerDev02\\source\\repos\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj",
+        "projectPath": "C:\\Users\\CerDev02\\Documents\\PracticaCertifac\\PracticaCertifac\\PracticaCertifac.csproj",
         "packagesPath": "C:\\Users\\CerDev02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CerDev02\\source\\repos\\PracticaCertifac\\PracticaCertifac\\obj\\",
+        "outputPath": "C:\\Users\\CerDev02\\Documents\\PracticaCertifac\\PracticaCertifac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CerDev02\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
